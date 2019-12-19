@@ -4,7 +4,7 @@ my_hash = {name: "Lydia"}
 end
 
 
-def shipping_manifestthe_manifest =
+def shipping_manifestthe_manifest
 
 the_manifest = {"whale bone corsets" => 5,
   "porcelain vases" => 2,
